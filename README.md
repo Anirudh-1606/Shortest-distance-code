@@ -18,4 +18,4 @@ Find d(2000000). Give your answer rounded to 9 places after the decimal point.
 
 # Question 3 Solution
 in index.html
-https://Cube.anirudhsaladi.repl.co
+
