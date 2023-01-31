@@ -17,4 +17,5 @@ Find d(2000000). Give your answer rounded to 9 places after the decimal point.
 1336.449400464
 
 # Question 3 Solution
-in question-3.html
+in index.html
+https://Cube.anirudhsaladi.repl.co
